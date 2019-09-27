@@ -1,0 +1,14 @@
+8:
+Sleep-0x89A3D14--func:0x807E0D4->called from 0x8081C74
+Stoned-0x89A3D54--func:0x807E1E4->called from 0x8081C94
+Silence-0x89A3E04--func:0x807E48C->called from 0x80819A8
+Berserk-0x89A3C6C--func:0x807DD80->called from 0x8081C34
+Poison-0x89A3944--func:0x807CC78->Torch-0x89A3C24
+0x807A904--Poison on map function
+0x89A3A80--cool dark wave effect
+0x89A3F94--statup
+7:
+0x8C9D9BC--func:0x807160C	poison
+0x8C9DCE4--func:0x8073550  	silence
+0x8C9DC54--sleep
+0x8C9DBAC--berserk
